@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "Quick-Start Guide"
+toc: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
