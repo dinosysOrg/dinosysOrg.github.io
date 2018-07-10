@@ -19,6 +19,16 @@ docs:
     children:
       - title: "Github Code Contribution Guide"
         url: /docs/code-contribution/
+      - title: "ESLint"
+        url: /docs/eslint/
+      - title: "Unit Test"
+        url: /docs/unit-test/
+      - title: "Integration Test"
+        url: /docs/integration-test/
+      - title: "Functional Test"
+        url: /docs/functional-test/
+      - title: "Pull Request"
+        url: /docs/pull-request/
       - title: "Continuous Integration"
         url: /docs/ci/
       - title: "Code Review"
@@ -29,3 +39,7 @@ docs:
         url: /docs/jira-task/
       - title: "Task estimation"
         url: /docs/estimation/
+  - title: Develop Team
+    children:
+      - title: "Project Name"
+        url: /docs/project-name/
